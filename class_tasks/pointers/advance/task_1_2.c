@@ -48,6 +48,26 @@ int main(){
 	printf("Grade: %.2f\n", students[i].grade);
 }
 
+	//open a CSV file for Writing
+	FILE *file = fopen("students.csv", "w");
+	if(file == NULL){
+	printf("ERROR OPENING FILE!\n");
+	free(students);
+	return 1;
+}
+
+// write the header to the CSV file
+	fprintf(file, "Name,Grade\n");
+// write students data into the file
+
+for (int i = 0; i < n; i++){
+	fprintf(file, "%s,%.2f\n", students[i].name, students[i].grade);
+}
+
+// close the file
+	fclose(file);
+	printf("Data saved to students.csv\n");
+
 	// free the memory
 	free(students);
 	return 0;
