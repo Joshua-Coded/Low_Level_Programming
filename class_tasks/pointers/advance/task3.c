@@ -44,4 +44,74 @@ void insertAtBeginning(struct Node** head, int data){
 }
 }
 
+// insert node at the end of the doubly linked list.
 
+void insertAtEnd(struct Node** head, int data){
+	struct Node* newNode = createNode(data);
+	if(*head == NULL){
+	*head = newNode;
+} else {
+	struct Node* temp = *head;
+	while (temp->next != NULL){
+	temp = temp->next;
+}
+
+	temp->next = newNode;
+	newNode->prev = temp;
+}
+}
+
+
+// function to traverse and display the list from the beginning
+void displayFromBeginning(struct Node* head){
+	struct Node* temp = head;
+	printf("Doubly Linked List (beginning to end): ");
+	while (temp != NULL){
+	printf("%d ", temp->data);
+	temp = temp->next;
+	}
+	printf("\n");
+}
+
+//function to traverse and display the list from the end
+
+void displayFromEnd(struct Node* head){
+	struct Node* temp = head;
+	if(temp == NULL){
+	return;
+}
+
+// go to the last node
+	while (temp->next != NULL){
+	temp = temp->next;
+}
+
+printf("Doubly Linked list (end to beginning): ");
+
+// traverse backward using prev pointer
+
+while(temp != NULL){
+	printf("%d ", temp->data);
+	temp = temp->prev;
+}
+printf("\n");
+
+}
+
+
+int main(){
+	struct Node* head = NULL;
+
+// insert elements in the list
+insertAtBeginning(&head, 10);
+insertAtBeginning(&head, 20);
+insertAtEnd(&head, 30);
+insertAtEnd(&head, 50);
+
+// display the list from beginning and end
+displayFromBeginning(head);
+displayFromEnd(head);
+
+return 0;
+
+}
