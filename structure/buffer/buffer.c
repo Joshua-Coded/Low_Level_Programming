@@ -59,3 +59,12 @@ int read_buffer(CircularBuffer *cb)
     cb->full = 0;
     return value;
 }
+
+int main()
+{
+    CircularBuffer cb;
+    init_circular_buffer(&cb);
+    write_buffer(&cb, 1);
+    write_buffer(&cb, 2);
+    printf("Read from buffer: %d\n", read_buffer(&cb));
+}
