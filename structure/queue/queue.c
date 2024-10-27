@@ -55,3 +55,11 @@ int dequeue(Queue *q)
     q->size--;
     return value;
 }
+int main()
+{
+    Queue queue;
+    init_queue(&queue);
+    enqueue(&queue, 1);
+    enqueue(&queue, 2);
+    printf("Dequeued: %d\n", dequeue(&queue));
+}
