@@ -64,3 +64,14 @@ void free_vector(Vector *vec)
     free(vec->array);
     free(vec);
 }
+
+int main()
+{
+    Vector *vec = create_vector();
+    vector_push(vec, 1);
+    vector_push(vec, 2);
+    printf("Vector element at 0: %d\n", vector_get(vec, 0));
+    free_vector(vec);
+
+    return 0;
+}
