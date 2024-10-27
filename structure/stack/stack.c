@@ -56,3 +56,13 @@ int peek(Stack *s)
         return -1; // stack underflow
     return s->array[s->top];
 }
+
+int main()
+{
+    Stack s;
+    init_stack(&s);
+    push(&s, 1);
+    push(&s, 2);
+    printf("Stack top: %d\n", peek(&s));
+    printf("Popped: %d\n", pop(&s));
+}
