@@ -22,7 +22,7 @@ int main()
         return 1;
     }
 
-    fprintf(filePtr, "Hello Joshua!!!\n");
+    fprintf(filePtr, "Hello Joshua!!! the best kernel engineer in the world!!!!\n");
     fclose(filePtr);
     return 0;
 }
