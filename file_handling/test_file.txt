@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Lorem Ipsum - All the facts - Lipsum generator</title>
+<meta name="keywords" content="Lorem Ipsum, Lipsum, Lorem, Ipsum, Text, Generate, Generator, Facts, Information, What, Why, Where, Dummy Text, Typesetting, Printing, de Finibus, Bonorum et Malorum, de Finibus Bonorum et Malorum, Extremes of Good and Evil, Cicero, Latin, Garbled, Scrambled, Lorem ipsum dolor sit amet, dolor, sit amet, consectetur, adipiscing, elit, sed, eiusmod, tempor, incididunt" />
+<meta name="description" content="Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator." />
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- Google adsense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9385669889547030" crossorigin="anonymous"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W02QY0T0GX"></script>
+<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-W02QY0T0GX'); </script>
+<!-- PLACE THIS SECTION INSIDE OF YOUR HEAD TAGS -->
+<!-- Below is a recommended list of pre-connections, which allow the network to establish each connection quicker, speeding up response times and improving ad performance. -->
+<link rel="preconnect" href="https://a.pub.network/" crossorigin />
+<link rel="preconnect" href="https://b.pub.network/" crossorigin />
+<link rel="preconnect" href="https://c.pub.network/" crossorigin />
+<link rel="preconnect" href="https://d.pub.network/" crossorigin />
+<link rel="preconnect" href="https://c.amazon-adsystem.com" crossorigin />
+<link rel="preconnect" href="https://s.amazon-adsystem.com" crossorigin />
+<link rel="preconnect" href="https://btloader.com/" crossorigin />
+<link rel="preconnect" href="https://api.btloader.com/" crossorigin />
+<link rel="preconnect" href="https://cdn.confiant-integrations.net" crossorigin />
+<!-- Below is a link to a CSS file that accounts for Cumulative Layout Shift, a new Core Web Vitals subset that Google uses to help rank your site in search -->
+<!-- The file is intended to eliminate the layout shifts that are seen when ads load into the page. If you don't want to use this, simply remove this file -->
+<!-- To find out more about CLS, visit https://web.dev/vitals/ -->
+<link rel="stylesheet" href="https://a.pub.network/lipsum-com/cls.css">
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+</script>
+<script src="https://a.pub.network/lipsum-com/pubfig.min.js" data-cfasync="false" async></script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/css/230223.css" />
+</head>
+<body>
+<div id="Outer">
+
+<div class="banner" style="min-height:90px"><table style="margin:0 auto"><tr><td>
+<!-- Tag ID: lipsumcom_header_1 -->
+<div align="center" data-freestar-ad="__336x280 __336x280" id="lipsumcom_header_1" style="display:inline-block">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_header_1", slotId: "lipsumcom_header_1" });
+  </script>
+</div>
+</td><td>
+<!-- Tag ID: lipsumcom_header_2 -->
+<div align="center" data-freestar-ad="__336x280" id="lipsumcom_header_2" style="display:inline-block">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_header_2", slotId: "lipsumcom_header_2" });
+  </script>
+</div>
+</td><td>
+<!-- Tag ID: lipsumcom_header_3 -->
+<div align="center" data-freestar-ad="__336x280" id="lipsumcom_header_3" style="display:inline-block">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_header_3", slotId: "lipsumcom_header_3" });
+  </script>
+</div>
+</td></tr></table></div>
+
+<div id="Inner">
+
+<div id="Languages"><a href="http://hy.lipsum.com/">&#1344;&#1377;&#1397;&#1381;&#1408;&#1381;&#1398;</a> <a href="http://sq.lipsum.com/">Shqip</a> <span class="ltr" dir="ltr"><a href="http://ar.lipsum.com/">&#8235;&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</a></span> <a href="http://bg.lipsum.com/">&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080;</a> <a href="http://ca.lipsum.com/">Catal&agrave;</a> <a href="http://cn.lipsum.com/">&#20013;&#25991;&#31616;&#20307;</a> <a href="http://hr.lipsum.com/">Hrvatski</a> <a href="http://cs.lipsum.com/">&#268;esky</a> <a href="http://da.lipsum.com/">Dansk</a> <a href="http://nl.lipsum.com/">Nederlands</a> <a class="zz" href="http://www.lipsum.com/">English</a> <a href="http://et.lipsum.com/">Eesti</a> <a href="http://ph.lipsum.com/">Filipino</a> <a href="http://fi.lipsum.com/">Suomi</a> <a href="http://fr.lipsum.com/">Fran&ccedil;ais</a> <a href="http://ka.lipsum.com/">&#4325;&#4304;&#4320;&#4311;&#4323;&#4314;&#4312;</a> <a href="http://de.lipsum.com/">Deutsch</a> <a href="http://el.lipsum.com/">&#917;&#955;&#955;&#951;&#957;&#953;&#954;&#940;</a> <span class="ltr" dir="ltr"><a href="http://he.lipsum.com/">&#8235;&#1506;&#1489;&#1512;&#1497;&#1514;</a></span> <a href="http://hi.lipsum.com/">&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a> <a href="http://hu.lipsum.com/">Magyar</a> <a href="http://id.lipsum.com/">Indonesia</a> <a href="http://it.lipsum.com/">Italiano</a> <a href="http://lv.lipsum.com/">Latviski</a> <a href="http://lt.lipsum.com/">Lietuvi&scaron;kai</a> <a href="http://mk.lipsum.com/">&#1084;&#1072;&#1082;&#1077;&#1076;&#1086;&#1085;&#1089;&#1082;&#1080;</a> <a href="http://ms.lipsum.com/">Melayu</a> <a href="http://no.lipsum.com/">Norsk</a> <a href="http://pl.lipsum.com/">Polski</a> <a href="http://pt.lipsum.com/">Portugu&ecirc;s</a> <a href="http://ro.lipsum.com/">Rom&acirc;na</a> <a href="http://ru.lipsum.com/">Pycc&#1082;&#1080;&#1081;</a> <a href="http://sr.lipsum.com/">&#1057;&#1088;&#1087;&#1089;&#1082;&#1080;</a> <a href="http://sk.lipsum.com/">Sloven&#269;ina</a> <a href="http://sl.lipsum.com/">Sloven&#353;&#269;ina</a> <a href="http://es.lipsum.com/">Espa&ntilde;ol</a> <a href="http://sv.lipsum.com/">Svenska</a> <a href="http://th.lipsum.com/">&#3652;&#3607;&#3618;</a> <a href="http://tr.lipsum.com/">T&uuml;rk&ccedil;e</a> <a href="http://uk.lipsum.com/">&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072;</a> <a href="http://vi.lipsum.com/">Ti&#7871;ng Vi&#7879;t</a> </div>
+
+<h1>Lorem Ipsum</h1>
+<h4>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</h4>
+<h5>"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h5>
+
+
+<hr />
+
+<div id="Content">
+<div id="bannerL"><!-- Tag ID: lipsumcom_left_siderail_1 -->
+<div align="center" data-freestar-ad="__300x600" id="lipsumcom_left_siderail_1">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_left_siderail_1", slotId: "lipsumcom_left_siderail_1" });
+  </script>
+</div>
+<!-- Tag ID: lipsumcom_left_siderail_2 -->
+<div align="center" data-freestar-ad="__300x600" id="lipsumcom_left_siderail_2">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_left_siderail_2", slotId: "lipsumcom_left_siderail_2" });
+  </script>
+</div></div>
+<div id="bannerR"><!-- Tag ID: lipsumcom_right_siderail_1 -->
+<div align="center" data-freestar-ad="__300x600" id="lipsumcom_right_siderail_1">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_right_siderail_1", slotId: "lipsumcom_right_siderail_1" });
+  </script>
+</div>
+<!-- Tag ID: lipsumcom_right_siderail_2 -->
+<div align="center" data-freestar-ad="__300x600" id="lipsumcom_right_siderail_2">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_right_siderail_2", slotId: "lipsumcom_right_siderail_2" });
+  </script>
+</div></div>
+<div class="boxed"><!-- 
+
+
+If you want to use Lorem Ipsum within another program please contact us for details
+on our API rather than parse the HTML below, we have XML and JSON available.
+
+
+ --><div id="lipsum">
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et tincidunt neque, non congue lacus. Proin pulvinar non elit ut posuere. Fusce molestie tortor quis dui aliquam rhoncus. Quisque enim augue, tincidunt ut auctor vestibulum, egestas sed quam. Fusce ac neque sit amet quam pharetra luctus. Aliquam lacinia erat consequat metus dapibus posuere. Duis elementum metus nibh, eget aliquam elit tristique nec. Maecenas gravida eros at lectus iaculis vestibulum. Phasellus id lectus lacinia sapien scelerisque molestie. Praesent blandit lectus ut porttitor sagittis. Aenean sit amet laoreet metus, eget scelerisque felis. In sit amet magna eu orci iaculis pulvinar tempus eget turpis. Curabitur lacinia pulvinar malesuada. Praesent commodo sem ante, et congue felis mollis at.
+</p>
+<p>
+Nam luctus aliquet nunc vitae sagittis. Nam rhoncus iaculis tristique. Ut urna nulla, fermentum sit amet viverra non, placerat at dui. Cras feugiat iaculis sagittis. Suspendisse ac velit vitae erat sollicitudin pharetra. Proin porttitor, purus tincidunt ornare ullamcorper, massa dolor vehicula odio, quis congue tortor augue a sem. Integer tempor et massa eu tincidunt. Nulla at pharetra sem.
+</p>
+<p>
+Cras vel luctus est. Vestibulum semper arcu eu tellus cursus dapibus. Donec diam libero, lacinia porta dignissim ac, facilisis vitae purus. Maecenas scelerisque interdum posuere. Maecenas rhoncus diam eu hendrerit tempus. Curabitur et massa non nibh pharetra gravida. Nunc semper ultricies odio, vel aliquet odio blandit at. Vivamus porttitor diam lacinia metus aliquet hendrerit. Proin vulputate arcu eget ligula tristique auctor. Sed varius ex id mi porta dignissim. Nulla sed nulla sit amet neque mollis dictum et id tellus. Etiam laoreet et urna nec efficitur. Phasellus et nisi tincidunt, convallis dolor vel, elementum tortor.
+</p>
+<p>
+Sed faucibus lacus a ligula efficitur sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc condimentum lobortis tincidunt. Morbi dignissim, magna a efficitur euismod, leo mauris accumsan metus, et pharetra sapien lorem malesuada sapien. Quisque a fringilla velit. Quisque pretium libero a quam dictum, fermentum commodo sapien pulvinar. Morbi volutpat varius ornare. Aliquam et nisi ut massa dapibus convallis.
+</p>
+<p>
+Integer sollicitudin interdum nibh eget consectetur. Integer eget ligula nec mauris consequat placerat. Cras ac mi turpis. Cras dapibus id mauris sit amet pretium. Nunc convallis semper efficitur. Ut ac libero ultrices, blandit dui at, cursus mauris. Sed pellentesque rhoncus bibendum. Integer porttitor, nulla sed maximus suscipit, diam elit dignissim tellus, eu semper magna diam id eros. Vestibulum ut aliquam turpis. Cras vitae nunc non nulla rutrum semper nec et lectus. Duis risus enim, feugiat sit amet nisi sollicitudin, sodales ultrices eros. Fusce malesuada lobortis justo ut viverra. Integer scelerisque imperdiet nibh sit amet convallis. Vivamus vitae interdum est.
+</p></div>
+<div id="generated">Generated 5 paragraphs, 427 words, 2916 bytes of <a href="https://www.lipsum.com/" title="Lorem Ipsum">Lorem Ipsum</a></div>
+</div>
+</div>
+
+<hr />
+
+<div class="boxed"><a style="text-decoration:none" href="mailto:he&#108;p&#x40;lipsum&#x2e;com">hel&#x70;&#x40;li&#112;s&#x75;&#109;&#x2e;c&#x6f;m</a><br /><a style="text-decoration:none" rel="nofollow" href="/privacy" />Privacy Policy</a>
+&middot;
+<!-- HTML for geo depending button -->
+<button id="pmLink">Privacy Manager</button>
+</div>
+
+
+
+</div>
+
+<div class="banner" style="margin-bottom:110px"><table style="margin:0 auto"><tr><td>
+<!-- Tag ID: lipsumcom_leaderboard_bottom_1 -->
+<div align="center" data-freestar-ad="__336x280 __336x280" id="lipsumcom_leaderboard_bottom_1">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_leaderboard_bottom_1", slotId: "lipsumcom_leaderboard_bottom_1" });
+  </script>
+</div>
+</td><td>
+<!-- Tag ID: lipsumcom_leaderboard_bottom_2 -->
+<div align="center" data-freestar-ad="__336x280" id="lipsumcom_leaderboard_bottom_2">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_leaderboard_bottom_2", slotId: "lipsumcom_leaderboard_bottom_2" });
+  </script>
+</div>
+</td><td>
+<!-- Tag ID: lipsumcom_leaderboard_bottom_3 -->
+<div align="center" data-freestar-ad="__336x280" id="lipsumcom_leaderboard_bottom_3">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "lipsumcom_leaderboard_bottom_3", slotId: "lipsumcom_leaderboard_bottom_3" });
+  </script>
+</div>
+</td></tr></table></div>
+
+</div>
+
+<style>
+#pmLink { visibility: hidden; font-family: "Open Sans", Arial, sans-serif; font-size: 14px; color: #000; text-decoration: none; cursor: pointer; background: transparent; border: none; }
+#pmLink:hover { visibility: visible; color: #d00; } 
+</style>
+<!-- Generated in 0.005 seconds -->
+</body></html>
